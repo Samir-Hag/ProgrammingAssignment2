@@ -1,12 +1,12 @@
 # R-Programming - Assignment 2:
-## the assigment is based on the lexical scoping and caching concepts. chache is a concept in which storing objects in memory
+## the assigment is based on the lexical scoping and caching concepts. chache is a concept in which objects are stored in the memory
 ## to speed up the susequent processes. 
 
 ## For example, some algebric computations , e.g. calculating the inverse of a matrix, is a time-consuming
-## comuptational process. therefore, it will be more convenient to save the inverse function out put in the memory
+## comuptational process. Therefore, it will be more convenient to save the inverse function out put in the memory
 ## instead to repeating the calculation every time. 
 
-## in the currrent assignment, the objective is to build pari of functions that cache the inverse of the matrix
+## in the currrent assignment, the objective is to build pair of functions that cache the inverse of the matrix
 
 
 ## This file, contains two functions. the first function , makeCacheMatrix(), meant to store a matrix and 
